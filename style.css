@@ -22,7 +22,7 @@
 }
 
 .img-wrap {
-    width: 20px;
+    width: 50%;
     position: absolute;
     left: 0;
     top: 0;
@@ -35,7 +35,7 @@ span {
     cursor: ew-resize;
     background: #fff;
     position: absolute;
-    left: 20px;
+    left: 50%;
     top: 0;
 }
 
